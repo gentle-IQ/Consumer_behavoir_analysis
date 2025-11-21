@@ -87,5 +87,3 @@ This analysis helps the retail company:
 
 ---
 
-## 📁 Project Structure
-
